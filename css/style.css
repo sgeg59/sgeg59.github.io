@@ -2,7 +2,12 @@ h1 {
   color: red; }
 
 .banner-box-full {
-  min-width: 100%; }
+  min-width: 100%;
+  margin-bottom: 100px;
+  text-align: center; }
+
+p.descr {
+  margin-top: 30px; }  
 
 .main-nav {
   margin-top: 50px;
@@ -21,7 +26,7 @@ hr {
 
 .pzsp-mart {
   text-align: center;
-  margin-top: 100px; }
+  margin-bottom: 100px; }
 
 .pzsp-april {
   text-align: center;
